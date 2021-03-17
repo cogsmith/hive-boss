@@ -1,6 +1,6 @@
 # HIVE-BOSS
 
-## :zap: Docker Orchestration Magic :zap:
+## ⚡ Docker Orchestration Magic ⚡
 ## Deploy complex cloud workloads out like a total boss!
 
 ---
