@@ -1,6 +1,4 @@
-# HIVE-BOSS
-
-## ⚡ Docker Orchestration Magic ⚡
+# ⚡ HIVE-BOSS: Docker Orchestration Magic ⚡
 ## Deploy complex cloud workloads out like a total boss!
 
 ---
