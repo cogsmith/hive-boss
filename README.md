@@ -15,7 +15,9 @@
 
 ---
 
-![GIF](GIF.GIF)
+<!-- ![GIF](GIF.GIF) -->
+
+<p align="center"><img src='GIF.GIF'></p>
 
 ### Easily deploy and host multiple hybrid workloads on any local server or cloud service
 
